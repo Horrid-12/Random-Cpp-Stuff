@@ -1,1 +1,2 @@
-# Random-ahh-C-Stuff-
+# Random C++ Stuff
+Stuff I Created for Practicing C++ 
